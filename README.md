@@ -3,7 +3,7 @@
 Timeboxed to 3H
 
 Assumptions:
-- Although not stated, it was assumed thaat this program would also accept an argument for the URL (if not passed then it defaulted to the Microsoft Wikipedia page)
+- Although not stated, it was assumed that this program would also accept an argument for the URL (if not passed then it defaulted to the Microsoft Wikipedia page)
 - This also assumed that the excluded words from the search would be passed via command line arguments
 - This also assumed that the results should be printed to the console
 
